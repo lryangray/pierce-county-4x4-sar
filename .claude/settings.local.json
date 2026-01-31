@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npm run build:*)",
+      "Bash(npx next build)",
+      "Bash(dir:*)",
+      "Bash(npm:*)",
+      "Bash(node --version)",
+      "Bash(test:*)",
+      "Bash(echo:*)",
+      "Bash(node:*)",
+      "Bash(cmd /c \"npm install\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
