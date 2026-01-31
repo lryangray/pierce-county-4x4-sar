@@ -69,20 +69,23 @@ export default function Mission() {
               <p>
                 Pierce County 4x4 Search and Rescue is a volunteer organization
                 committed to providing professional emergency search and rescue
-                services to our community. Our team of trained volunteers stands
-                ready 24/7 to respond when called upon.
+                services throughout Pierce County, Washington. From the urban areas of
+                Tacoma, Lakewood, and Puyallup to the rugged wilderness of the
+                Mt. Rainier foothills, our team stands ready 24/7/365 to respond.
               </p>
               <p>
                 Founded nearly four decades ago, we&apos;ve grown into a highly skilled
                 unit equipped with specialized 4x4 vehicles capable of reaching
-                remote and challenging terrain. Our members undergo rigorous
+                the remote backcountry terrain of the Carbon River valley, Buckley,
+                Orting, and surrounding wilderness areas. Our members undergo rigorous
                 training in wilderness navigation, technical rescue, emergency
                 medical response, and incident command.
               </p>
               <p>
-                We work closely with Pierce County Emergency Management, local
-                law enforcement, and other emergency response agencies to ensure
-                coordinated and effective rescue operations.
+                We work closely with the Pierce County Sheriff&apos;s Department,
+                Tacoma Police Department, and Pierce County Department of Emergency
+                Management to ensure coordinated and effective rescue operations
+                across our service area.
               </p>
             </div>
 

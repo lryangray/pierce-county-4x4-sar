@@ -87,7 +87,7 @@ export default function Footer() {
                 { name: 'Services', href: '#services' },
                 { name: 'Safety Resources', href: '#safety' },
                 { name: 'Partners', href: '#partners' },
-                { name: 'Gallery', href: '#gallery' },
+                { name: 'FAQ', href: '#faq' },
                 { name: 'Contact', href: '#contact' },
               ].map((link) => (
                 <li key={link.name}>

@@ -7,6 +7,7 @@ import SafetyResources from '@/components/SafetyResources'
 import Capabilities from '@/components/Capabilities'
 import Partners from '@/components/Partners'
 import Gallery from '@/components/Gallery'
+import FAQ from '@/components/FAQ'
 import Contact from '@/components/Contact'
 import Footer from '@/components/Footer'
 
@@ -23,6 +24,7 @@ export default function Home() {
         <Capabilities />
         <Partners />
         <Gallery />
+        <FAQ />
         <Contact />
       </main>
       <Footer />
