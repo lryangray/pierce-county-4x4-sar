@@ -5,8 +5,8 @@ import Image from 'next/image'
 
 const galleryImages = [
   {
-    src: 'https://images.unsplash.com/photo-1462275646964-a0e3571f4f83?w=600&h=400&fit=crop',
-    alt: 'Mount Rainier at sunrise - Pierce County iconic landmark',
+    src: 'https://images.unsplash.com/photo-1580655653885-65763b2597d0?w=600&h=400&fit=crop',
+    alt: 'Mount Rainier snow-capped peak - Pierce County iconic landmark',
     span: 'md:col-span-2',
   },
   {
