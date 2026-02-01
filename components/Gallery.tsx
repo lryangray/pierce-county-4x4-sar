@@ -5,8 +5,8 @@ import Image from 'next/image'
 
 const galleryImages = [
   {
-    src: 'https://images.unsplash.com/photo-1516967124798-10656f7dca28?w=600&h=400&fit=crop',
-    alt: 'Mount Rainier view from Seattle area - Pierce County landmark',
+    src: 'https://source.unsplash.com/9pYZWuU7sc8/800x600',
+    alt: 'Mount Rainier with lake reflection - Pierce County iconic landmark',
     span: 'md:col-span-2',
   },
   {
