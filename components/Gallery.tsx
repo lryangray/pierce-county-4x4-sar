@@ -5,33 +5,33 @@ import Image from 'next/image'
 
 const galleryImages = [
   {
-    src: 'https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=600&h=400&fit=crop',
-    alt: 'Mountain rescue terrain with snow-capped peaks',
+    src: 'https://images.unsplash.com/photo-1462275646964-a0e3571f4f83?w=600&h=400&fit=crop',
+    alt: 'Mount Rainier at sunrise - Pierce County iconic landmark',
     span: 'md:col-span-2',
   },
   {
-    src: 'https://images.unsplash.com/photo-1551632811-561732d1e306?w=400&h=400&fit=crop',
-    alt: 'Wilderness trail used in search operations',
+    src: 'https://images.unsplash.com/photo-1542332213-31f87348057f?w=400&h=400&fit=crop',
+    alt: 'Pacific Northwest forest trail near Puyallup',
     span: '',
   },
   {
-    src: 'https://images.unsplash.com/photo-1510312305653-8ed496efae75?w=400&h=400&fit=crop',
-    alt: 'Forest terrain typical of search missions',
+    src: 'https://images.unsplash.com/photo-1509515837298-2c67a3933321?w=400&h=400&fit=crop',
+    alt: 'Puget Sound waterfront - Tacoma service area',
     span: '',
   },
   {
-    src: 'https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=400&h=400&fit=crop',
-    alt: 'Team coordination during outdoor operation',
+    src: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=400&fit=crop',
+    alt: 'Dense forest terrain typical of Carbon River valley searches',
     span: '',
   },
   {
-    src: 'https://images.unsplash.com/photo-1533240332313-0db49b459ad6?w=600&h=400&fit=crop',
-    alt: '4x4 vehicle navigating rough terrain',
+    src: 'https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=600&h=400&fit=crop',
+    alt: 'Mt. Rainier National Park wilderness where rescue operations occur',
     span: 'md:col-span-2',
   },
   {
-    src: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?w=400&h=400&fit=crop',
-    alt: 'Night sky over mountain range where rescue operations occur',
+    src: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400&h=400&fit=crop',
+    alt: 'Alpine terrain in the Mt. Rainier foothills',
     span: '',
   },
 ]
@@ -73,9 +73,9 @@ export default function Gallery() {
             Photo Gallery
           </h2>
           <p className="text-navy-700 text-lg leading-relaxed">
-            A glimpse into the terrain we cover and the conditions our team
-            trains for. From mountain peaks to dense forests, we&apos;re prepared to
-            respond anywhere in Pierce County.
+            From the majestic slopes of Mt. Rainier to the forests of the Carbon River
+            valley and the shores of Puget Sound, we&apos;re prepared to respond anywhere
+            in Pierce County. These images showcase the diverse terrain our team trains for.
           </p>
         </div>
 

@@ -27,8 +27,8 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1533130061792-64b345e4a833?w=1920&h=1080&fit=crop"
-          alt="Rugged mountain terrain representing search and rescue operations"
+          src="https://images.unsplash.com/photo-1434394354979-a235cd36269d?w=1920&h=1080&fit=crop"
+          alt="Mount Rainier, Washington - Pierce County 4x4 Search and Rescue service area"
           fill
           className="object-cover"
           priority
